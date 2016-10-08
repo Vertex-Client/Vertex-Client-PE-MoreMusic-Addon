@@ -51,12 +51,15 @@ const Category = {
  *	CUSTOM MODULES
  */
 
-//registerSong(new Song("song name", "song artist", "song url")); //example
+//registerSong(new Song("", "", "")); 
 registerSong(new Song("Why We Lose (feat. Coleman Trapp) [NCS Release]", "Cartoon", "http://nocopyrightsounds.co.uk/video/cartoon-why-we-lose-feat-coleman-trapp-ncs-release/?download=1")); 
 registerSong(new Song("Eternal Minds [NCS Release]", "Waysons", "http://nocopyrightsounds.co.uk/video/waysons-eternal-minds-ncs-release/?download=1")); 
 registerSong(new Song("Change Your Ways (feat. Charlotte Haining) [NCS Release]", "High Maintenance", "http://nocopyrightsounds.co.uk/video/high-maintenance-change-your-ways-feat-charlotte-haining-ncs-release/?download=1")); 
 registerSong(new Song("Aperture [NCS Release]", "Unison", "http://nocopyrightsounds.co.uk/video/unison-aperture-ncs-release/?download=1")); 
-registerSong(new Song("Vibe [NCS Release]", "Ash O’Connor", "http://nocopyrightsounds.co.uk/video/ash-oconnor-vibe-ncs-release/?download=1")); 
+registerSong(new Song("Vibe [NCS Release]", "Ash O’Connor", "http://nocopyrightsounds.co.uk/video/ash-oconnor-vibe-ncs-release/?download=1"));
+registerSong(new Song("You. & Me? [NCS Release]", "ZEST", "http://nocopyrightsounds.co.uk/video/zest-you-me-ncs-release/?download=1")); 
+registerSong(new Song("Which Direction? [NCS Release]", "Anikdote", "http://nocopyrightsounds.co.uk/video/anikdote-which-direction-ncs-release/?download=1")); 
+registerSong(new Song("linded (feat. Kosta & Theo Hoarau) [NCS Release]", "Fytch", "http://nocopyrightsounds.co.uk/video/fytch-blinded-feat-kosta-theo-hoarau-ncs-release/?download=1")); 
 
 /*
 var exampleModule = {
