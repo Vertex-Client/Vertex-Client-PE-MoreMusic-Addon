@@ -60,7 +60,10 @@ registerSong(new Song("Vibe [NCS Release]", "Ash O’Connor", "http://nocopyrigh
 registerSong(new Song("You. & Me? [NCS Release]", "ZEST", "http://nocopyrightsounds.co.uk/video/zest-you-me-ncs-release/?download=1")); 
 registerSong(new Song("Which Direction? [NCS Release]", "Anikdote", "http://nocopyrightsounds.co.uk/video/anikdote-which-direction-ncs-release/?download=1")); 
 registerSong(new Song("Blinded (feat. Kosta & Theo Hoarau) [NCS Release]", "Fytch", "http://nocopyrightsounds.co.uk/video/fytch-blinded-feat-kosta-theo-hoarau-ncs-release/?download=1")); 
-
+registerSong(new Song("This Life (feat. Johnning) [NCS Release]", "OLWIK", "http://nocopyrightsounds.co.uk/video/olwik-this-life-feat-johnning-ncs-release/?download=1")); 
+registerSong(new Song("Alone [NCS Release]", "Main Reaktor", "http://nocopyrightsounds.co.uk/video/main-reaktor-alone-ncs-release/?download=1"));
+registerSong(new Song("Skyline", "Audioscribe", "http://nocopyrightsounds.co.uk/video/audioscribe-skyline/?download=1")); 
+registerSong(new Song("Adventure Time [NCS Release]", "Music Predators", "http://nocopyrightsounds.co.uk/video/music-predators-adventure-time-ncs-release/?download=1")); 
 /*
 var exampleModule = {
 	name: "Example toggleable module",
