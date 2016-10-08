@@ -167,7 +167,7 @@ function registerSong(song) {
 			throw new TypeError("The registered value is not of the type Song.");
 			return;
 		}
-		song.prototype.source = ADDON_NAME;
+		song.source = ADDON_NAME;
 		songs.push(song);
 	} catch(e) {
 		if(e instanceof TypeError) {
