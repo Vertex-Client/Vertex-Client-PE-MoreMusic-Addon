@@ -52,18 +52,18 @@ const Category = {
  */
 
 //registerSong(new Song("", "", "")); 
-registerSong(new Song("Why We Lose (feat. Coleman Trapp) [NCS Release]", "Cartoon", "http://nocopyrightsounds.co.uk/video/cartoon-why-we-lose-feat-coleman-trapp-ncs-release/?download=1")); 
-registerSong(new Song("Eternal Minds [NCS Release]", "Waysons", "http://nocopyrightsounds.co.uk/video/waysons-eternal-minds-ncs-release/?download=1")); 
-registerSong(new Song("Change Your Ways (feat. Charlotte Haining) [NCS Release]", "High Maintenance", "http://nocopyrightsounds.co.uk/video/high-maintenance-change-your-ways-feat-charlotte-haining-ncs-release/?download=1")); 
-registerSong(new Song("Aperture [NCS Release]", "Unison", "http://nocopyrightsounds.co.uk/video/unison-aperture-ncs-release/?download=1")); 
-registerSong(new Song("Vibe [NCS Release]", "Ash O’Connor", "http://nocopyrightsounds.co.uk/video/ash-oconnor-vibe-ncs-release/?download=1"));
-registerSong(new Song("You. & Me? [NCS Release]", "ZEST", "http://nocopyrightsounds.co.uk/video/zest-you-me-ncs-release/?download=1")); 
-registerSong(new Song("Which Direction? [NCS Release]", "Anikdote", "http://nocopyrightsounds.co.uk/video/anikdote-which-direction-ncs-release/?download=1")); 
-registerSong(new Song("Blinded (feat. Kosta & Theo Hoarau) [NCS Release]", "Fytch", "http://nocopyrightsounds.co.uk/video/fytch-blinded-feat-kosta-theo-hoarau-ncs-release/?download=1")); 
-registerSong(new Song("This Life (feat. Johnning) [NCS Release]", "OLWIK", "http://nocopyrightsounds.co.uk/video/olwik-this-life-feat-johnning-ncs-release/?download=1")); 
-registerSong(new Song("Alone [NCS Release]", "Main Reaktor", "http://nocopyrightsounds.co.uk/video/main-reaktor-alone-ncs-release/?download=1"));
-registerSong(new Song("Skyline", "Audioscribe", "http://nocopyrightsounds.co.uk/video/audioscribe-skyline/?download=1")); 
-registerSong(new Song("Adventure Time [NCS Release]", "Music Predators", "http://nocopyrightsounds.co.uk/video/music-predators-adventure-time-ncs-release/?download=1"));
+registerSong(new Song("Why We Lose (feat. Coleman Trapp) [NCS Release]", "Cartoon", "http://files-cdn.nocopyrightsounds.co.uk/Cartoon%20-%20Why%20We%20Lose%20%28ft.%20Coleman%20Trapp%29.mp3"));
+registerSong(new Song("Eternal Minds [NCS Release]", "Waysons", "http://files-cdn.nocopyrightsounds.co.uk/Waysons%20-%20Eternal%20Minds.mp3"));
+registerSong(new Song("Change Your Ways (feat. Charlotte Haining) [NCS Release]", "High Maintenance", "http://files-cdn.nocopyrightsounds.co.uk/High%20Maintenance%20-%20Change%20Your%20Ways%20%28feat.%20Charlotte%20Haining%29.mp3"));
+registerSong(new Song("Aperture [NCS Release]", "Unison", "http://files-cdn.nocopyrightsounds.co.uk/Unison-Aperture.mp3"));
+registerSong(new Song("Vibe [NCS Release]", "Ash O’Connor", "http://files-cdn.nocopyrightsounds.co.uk/Ash%20OConnor%20-%20Vibe.mp3"));
+registerSong(new Song("You. & Me? [NCS Release]", "ZEST", "http://files-cdn.nocopyrightsounds.co.uk/ZEST%20-%20You.%20%26%20I.mp3"));
+registerSong(new Song("Which Direction? [NCS Release]", "Anikdote", "http://files-cdn.nocopyrightsounds.co.uk/ANIKDOTE%20-%20Which%20Direction_%20.mp3"));
+registerSong(new Song("Blinded (feat. Kosta & Theo Hoarau) [NCS Release]", "Fytch", "http://files-cdn.nocopyrightsounds.co.uk/Fytch%20-%20Blinded%20%28ft.%20Kosta%20%26%20Theo%20Hoarau%29.mp3"));
+registerSong(new Song("This Life (feat. Johnning) [NCS Release]", "OLWIK", "http://files-cdn.nocopyrightsounds.co.uk/OLWIK%20-%20This%20Life%20%28feat%20Johnning%29.mp3"));
+registerSong(new Song("Alone [NCS Release]", "Main Reaktor", "http://files-cdn.nocopyrightsounds.co.uk/Main%20Reaktor%20-%20Alone.mp3"));
+registerSong(new Song("Skyline", "Audioscribe", "http://files-cdn.nocopyrightsounds.co.uk/Skyline%20by%20Audioscribe.mp3"));
+registerSong(new Song("Adventure Time [NCS Release]", "Music Predators", "http://files-cdn.nocopyrightsounds.co.uk/Music%20Predators%20-%20Adventure%20Time.mp3"));
 
 /*
 var exampleModule = {
