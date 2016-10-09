@@ -21,9 +21,10 @@ var Launcher = {
 	}
 };
 
-function Song(songTitle, songArtist, songUrl) {
+function Song(songTitle, songArtist, songUrl, songGenre) {
     this.title = songTitle || "Unknown";
     this.artist = songArtist || "Unknown";
+	this.genre = songGenre || "Unknown";
     this.url = songUrl;
 }
 
@@ -34,7 +35,7 @@ function Song(songTitle, songArtist, songUrl) {
 const ADDON_NAME = "MoreMusic"; //Your addon's name
 const ADDON_DESC = "Adds many songs into Vertex Client PE."; //Your addon's description
 const ADDON_VERSION = "1.0"; //Your addon's version
-const TARGET_VERSION = "1.6"; //Your addon's target Vertex Client PE version (in this case we use Vertex Client PE v1.0.1)
+const TARGET_VERSION = "1.7"; //Your addon's target Vertex Client PE version (in this case we use Vertex Client PE v1.0.1)
 
 var modules = [];
 var songs = [];
