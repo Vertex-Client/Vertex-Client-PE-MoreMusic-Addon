@@ -52,7 +52,7 @@ const Category = {
  *	CUSTOM MODULES
  */
 
-//registerSong(new Song("", "", "")); 
+//registerSong(new Song("", "", "","")); 
 registerSong(new Song("Why We Lose (feat. Coleman Trapp) [NCS Release]", "Cartoon", "http://files-cdn.nocopyrightsounds.co.uk/Cartoon%20-%20Why%20We%20Lose%20%28ft.%20Coleman%20Trapp%29.mp3"));
 registerSong(new Song("Eternal Minds [NCS Release]", "Waysons", "http://files-cdn.nocopyrightsounds.co.uk/Waysons%20-%20Eternal%20Minds.mp3"));
 registerSong(new Song("Change Your Ways (feat. Charlotte Haining) [NCS Release]", "High Maintenance", "http://files-cdn.nocopyrightsounds.co.uk/High%20Maintenance%20-%20Change%20Your%20Ways%20%28feat.%20Charlotte%20Haining%29.mp3"));
@@ -65,6 +65,19 @@ registerSong(new Song("This Life (feat. Johnning) [NCS Release]", "OLWIK", "http
 registerSong(new Song("Alone [NCS Release]", "Main Reaktor", "http://files-cdn.nocopyrightsounds.co.uk/Main%20Reaktor%20-%20Alone.mp3"));
 registerSong(new Song("Skyline", "Audioscribe", "http://files-cdn.nocopyrightsounds.co.uk/Skyline%20by%20Audioscribe.mp3"));
 registerSong(new Song("Adventure Time [NCS Release]", "Music Predators", "http://files-cdn.nocopyrightsounds.co.uk/Music%20Predators%20-%20Adventure%20Time.mp3"));
+registerSong(new Song("Last Summer [NCS Release]", "Warptech", "http://files-cdn.nocopyrightsounds.co.uk/Warptech%20-%20Last%20Summer.mp3"));
+registerSong(new Song("California (feat. Corey Saxon) [NCS Release]", "Luke Carpenter & John Ross", "http://files-cdn.nocopyrightsounds.co.uk/Luke%20Carpenter%20%26%20John%20Ross%20-%20California%20%28feat.%20Corey%20Saxon%29.mp3"));
+registerSong(new Song("Loud & Clear (feat. Richard Caddock) [NCS Release]", "Joe Garston", "http://files-cdn.nocopyrightsounds.co.uk/Joe%20Garston%20-%20Loud%20%26%20Clear%20%28feat.%20Richard%20Caddock%29.mp3"));
+registerSong(new Song("Steeper [NCS Release]", "Ash O’Connor & Curbi", "http://files-cdn.nocopyrightsounds.co.uk/Ash%20O%27Connor%20%26%20Curbi%20-%20Steeper.mp3"));
+registerSong(new Song("Saved Me Now [NCS Release]", "Matthew Blake feat. Katie Boyle", "http://files-cdn.nocopyrightsounds.co.uk/Matthew%20Blake%20feat.%20Katies%20Ambition%20-%20Saved%20Me%20Now.mp3"));
+registerSong(new Song("Hold On (feat. Ranja) [NCS Release]", "Elliot Berger", "http://files-cdn.nocopyrightsounds.co.uk/Elliot%20Berger%20-%20Hold%20On%20ft.%20Ranja.mp3"));
+registerSong(new Song("Stay With Me (Krys Talk Remix) [NCS Release]", "Mendum", "http://files-cdn.nocopyrightsounds.co.uk/Mendum%20-%20Stay%20With%20Me%20%28Krys%20Talk%20Remix%29.mp3"));
+registerSong(new Song("Up In Flumes [NCS Release]", "T-Mass", "http://files-cdn.nocopyrightsounds.co.uk/T-Mass%2C%20Up%20in%20Flumes.mp3"));
+registerSong(new Song("Handsonic (feat. Jordan Virelli) [NCS Release]", "Vena Cava", "http://files-cdn.nocopyrightsounds.co.uk/Vena%20Cava%20feat.%20Jorden%20Virelli%20-%20Handsonic.mp3"));
+registerSong(new Song("Rubik [NCS Release]", "Distrion & Electro-Light", "http://files-cdn.nocopyrightsounds.co.uk/Distrion%20%26%20Electro-Light%20-%20Rubik%20.mp3"));
+registerSong(new Song("Levitate (feat. Joe Erickson)", "JPB", "http://files-cdn.nocopyrightsounds.co.uk/JPB%20-%20Levitate%20%28feat.%20Joe%20Erickson%29.mp3"));
+registerSong(new Song("The Edge [NCS Release]", "Electro Light ft. Kathryn MacLean", "http://files-cdn.nocopyrightsounds.co.uk/Electro%20Light%20feat.%20Kathryn%20MacLean%20-%20The%20Edge.mp3"));
+registerSong(new Song("Away [NCS Release]", "Subtact", "http://files-cdn.nocopyrightsounds.co.uk/Subtact%20-%20Away.mp3"));
 
 /*
 var exampleModule = {
