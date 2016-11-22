@@ -80,6 +80,19 @@ registerSong(new Song("Levitate (feat. Joe Erickson)", "JPB", "http://files-cdn.
 registerSong(new Song("The Edge [NCS Release]", "Electro Light ft. Kathryn MacLean", "http://files-cdn.nocopyrightsounds.co.uk/Electro%20Light%20feat.%20Kathryn%20MacLean%20-%20The%20Edge.mp3"));
 registerSong(new Song("Away [NCS Release]", "Subtact", "http://files-cdn.nocopyrightsounds.co.uk/Subtact%20-%20Away.mp3"));
 
+registerTile({
+	text: "NoCopyrightSounds",
+	color: "red",
+	icon: android.R.drawable.ic_media_play,
+	forceLightColor: false,
+	shouldDismissDashboard: false,
+	onClick: function(fromDashboard) {
+		var uri = android.net.Uri.parse("http://nocopyrightsounds.co.uk/");
+		var intent = new android.content.Intent(android.content.Intent.ACTION_VIEW, uri);
+		com.mojang.minecraftpe.MainActivity.currentMainActivity.get().startActivity(intent);
+	}
+});
+
 /*
 var exampleModule = {
 	name: "Example toggleable module",
@@ -203,7 +216,7 @@ function registerSong(song) {
 	}
 }
 
-function registerModule(obj) {
+function registerTile(obj) {
 	obj.source = ADDON_NAME;
 	tiles.push(obj);
 }
