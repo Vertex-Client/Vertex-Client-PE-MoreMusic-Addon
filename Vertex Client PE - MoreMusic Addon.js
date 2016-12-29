@@ -1,6 +1,6 @@
 /**
 *  Library made by peacestorm
-*  © 2017
+*  © 2016-2017
 */
 
 /**
