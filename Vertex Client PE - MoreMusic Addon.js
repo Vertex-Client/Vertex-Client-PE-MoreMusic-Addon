@@ -29,8 +29,9 @@ function Song(songTitle, songArtist, songUrl, songGenre) {
 */
 const ADDON_NAME = "MoreMusic";
 const ADDON_DESC = "Adds many songs into Vertex Client PE.";
+const ADDON_AUTHOR = "LPMG & peacestorm.";
 const ADDON_VERSION = "1.0"
-const TARGET_VERSION = "2.0";
+const TARGET_VERSION = "2.1";
 var modules = [];
 var songs = [];
 var tiles = [];
@@ -88,10 +89,10 @@ registerTile({
  */
 function addonLoadHook() {
 	if(Launcher.isBlockLauncher() || Launcher.isToolbox()) {
-		net.zhuoweizhang.mcpelauncher.ScriptManager.callScriptMethod("registerAddon", [ADDON_NAME, ADDON_DESC, ADDON_VERSION, TARGET_VERSION, modules, songs, tiles]);
+		net.zhuoweizhang.mcpelauncher.ScriptManager.callScriptMethod("registerAddon", [ADDON_NAME, ADDON_DESC, ADDON_VERSION, TARGET_VERSION, modules, songs, tiles, ADDON_AUTHOR]);
 	}
 	if(Launcher.isMcpeMaster()) {
-		com.mcbox.pesdk.mcpelauncher.ScriptManager.callScriptMethod("registerAddon", [ADDON_NAME, ADDON_DESC, ADDON_VERSION, TARGET_VERSION, modules, songs, tiles]);
+		com.mcbox.pesdk.mcpelauncher.ScriptManager.callScriptMethod("registerAddon", [ADDON_NAME, ADDON_DESC, ADDON_VERSION, TARGET_VERSION, modules, songs, tiles, ADDON_AUTHOR]);
 	}
 }
 function registerModule(obj) {
