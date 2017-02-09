@@ -64,12 +64,12 @@ registerSong(new Song("California (feat. Corey Saxon) [NCS Release]", "Luke Carp
 registerSong(new Song("Loud & Clear (feat. Richard Caddock) [NCS Release]", "Joe Garston", "http://files-cdn.nocopyrightsounds.co.uk/Joe%20Garston%20-%20Loud%20%26%20Clear%20%28feat.%20Richard%20Caddock%29.mp3"));
 registerSong(new Song("Steeper [NCS Release]", "Ash O’Connor & Curbi", "http://files-cdn.nocopyrightsounds.co.uk/Ash%20O%27Connor%20%26%20Curbi%20-%20Steeper.mp3"));
 registerSong(new Song("Saved Me Now [NCS Release]", "Matthew Blake feat. Katie Boyle", "http://files-cdn.nocopyrightsounds.co.uk/Matthew%20Blake%20feat.%20Katies%20Ambition%20-%20Saved%20Me%20Now.mp3"));
-registerSong(new Song("Hold On (feat. Ranja) [NCS Release]", "Elliot Berger", "http://files-cdn.nocopyrightsounds.co.uk/Elliot%20Berger%20-%20Hold%20On%20ft.%20Ranja.mp3"));
-registerSong(new Song("Stay With Me (Krys Talk Remix) [NCS Release]", "Mendum", "http://files-cdn.nocopyrightsounds.co.uk/Mendum%20-%20Stay%20With%20Me%20%28Krys%20Talk%20Remix%29.mp3"));
+registerSong(new Song("Hold On (feat. Ranja) [NCS Release]", "Elliot Berger", "http://files-cdn.nocopyrightsounds.co.uk/Elliot%20Berger%20-%20Hold%20On%20ft.%20Ranja.mp3", "Dubstep"));
+registerSong(new Song("Stay With Me (Krys Talk Remix) [NCS Release]", "Mendum", "http://files-cdn.nocopyrightsounds.co.uk/Mendum%20-%20Stay%20With%20Me%20%28Krys%20Talk%20Remix%29.mp3", "Drumstep"));
 registerSong(new Song("Up In Flumes [NCS Release]", "T-Mass", "http://files-cdn.nocopyrightsounds.co.uk/T-Mass%2C%20Up%20in%20Flumes.mp3"));
 registerSong(new Song("Handsonic (feat. Jordan Virelli) [NCS Release]", "Vena Cava", "http://files-cdn.nocopyrightsounds.co.uk/Vena%20Cava%20feat.%20Jorden%20Virelli%20-%20Handsonic.mp3"));
-registerSong(new Song("Rubik [NCS Release]", "Distrion & Electro-Light", "http://files-cdn.nocopyrightsounds.co.uk/Distrion%20%26%20Electro-Light%20-%20Rubik%20.mp3"));
-registerSong(new Song("Levitate (feat. Joe Erickson)", "JPB", "http://files-cdn.nocopyrightsounds.co.uk/JPB%20-%20Levitate%20%28feat.%20Joe%20Erickson%29.mp3"));
+registerSong(new Song("Rubik [NCS Release]", "Distrion & Electro-Light", "http://files-cdn.nocopyrightsounds.co.uk/Distrion%20%26%20Electro-Light%20-%20Rubik%20.mp3", "House"));
+registerSong(new Song("Levitate (feat. Joe Erickson)", "JPB", "http://files-cdn.nocopyrightsounds.co.uk/JPB%20-%20Levitate%20%28feat.%20Joe%20Erickson%29.mp3", "Future House"));
 registerSong(new Song("The Edge [NCS Release]", "Electro Light ft. Kathryn MacLean", "http://files-cdn.nocopyrightsounds.co.uk/Electro%20Light%20feat.%20Kathryn%20MacLean%20-%20The%20Edge.mp3"));
 registerSong(new Song("Away [NCS Release]", "Subtact", "http://files-cdn.nocopyrightsounds.co.uk/Subtact%20-%20Away.mp3"));
 registerTile({
