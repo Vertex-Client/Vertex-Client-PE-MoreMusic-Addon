@@ -19,28 +19,28 @@ var Launcher = {
 	}
 };
 function Song(songTitle, songArtist, songUrl, songGenre) {
-    this.title = songTitle || "Unknown";
-    this.artist = songArtist || "Unknown";
+	this.title = songTitle || "Unknown";
+	this.artist = songArtist || "Unknown";
 	this.genre = songGenre || "Unknown";
-    this.url = songUrl;
+	this.url = songUrl;
 }
 /**
 * YOUR ADDON CONTENT
 */
 const ADDON_NAME = "MoreMusic";
 const ADDON_DESC = "Adds many songs into Vertex Client PE.";
-const ADDON_AUTHOR = "LPMG & peacestorm.";
+const ADDON_AUTHOR = "LPMG & peacestorm";
 const ADDON_VERSION = "1.0"
-const TARGET_VERSION = "2.1";
+const TARGET_VERSION = "2.4";
 var modules = [];
 var songs = [];
 var tiles = [];
 
 const Category = {
 	COMBAT: 0,
-	BUILDING: 1,
+	WORLD: 1,
 	MOVEMENT: 2,
-	CHAT: 3,
+	PLAYER: 3,
 	MISC: 4
 }
 /**
